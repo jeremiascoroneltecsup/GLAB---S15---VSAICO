@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.lopez.johan.poketinder'
+    namespace 'com.coronel.jeremias.poketinder'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.lopez.johan.poketinder"
+        applicationId "com.coroenl.jeremias.poketinder"
         minSdk 24
         targetSdk 34
         versionCode 1

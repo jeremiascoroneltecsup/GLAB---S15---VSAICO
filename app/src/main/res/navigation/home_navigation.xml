@@ -7,17 +7,17 @@
 
     <fragment
         android:id="@+id/favoriteFragment"
-        android:name="com.lopez.johan.poketinder.ui.view.FavoriteFragment"
+        android:name="com.coronel.jeremias.poketinder.ui.view.FavoriteFragment"
         android:label="fragment_favorite"
         tools:layout="@layout/fragment_favorite" />
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.lopez.johan.poketinder.ui.view.HomeFragment"
+        android:name="com.coronel.jeremias.poketinder.ui.view.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" />
     <fragment
         android:id="@+id/infoFragment"
-        android:name="com.lopez.johan.poketinder.ui.view.InfoFragment"
+        android:name="com.coronel.jeremias.poketinder.ui.view.InfoFragment"
         android:label="fragment_info"
         tools:layout="@layout/fragment_info" />
 </navigation>
