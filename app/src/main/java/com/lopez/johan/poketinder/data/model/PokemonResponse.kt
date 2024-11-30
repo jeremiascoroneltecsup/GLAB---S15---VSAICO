@@ -1,4 +1,4 @@
-package com.lopez.johan.poketinder
+package com.lopez.johan.poketinder.data.model
 
 data class PokemonResponse(
     val name: String,

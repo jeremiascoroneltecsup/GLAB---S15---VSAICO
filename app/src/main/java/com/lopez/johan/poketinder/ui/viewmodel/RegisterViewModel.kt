@@ -1,10 +1,9 @@
-package com.lopez.johan.poketinder
+package com.lopez.johan.poketinder.ui.viewmodel
 
 import android.app.Application
-import android.content.Context
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.MutableLiveData
-import androidx.lifecycle.ViewModel
+import com.lopez.johan.poketinder.data.database.SharedPreferencesRepository
 
 class RegisterViewModel(application: Application) : AndroidViewModel(application) {
 

@@ -1,6 +1,6 @@
-package com.lopez.johan.poketinder
+package com.lopez.johan.poketinder.ui.view
 
-import LoginViewModel
+import com.lopez.johan.poketinder.ui.viewmodel.LoginViewModel
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast

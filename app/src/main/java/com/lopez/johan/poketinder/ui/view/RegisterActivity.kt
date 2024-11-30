@@ -1,10 +1,11 @@
-package com.lopez.johan.poketinder
+package com.lopez.johan.poketinder.ui.view
 
 import android.os.Bundle
 import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
+import com.lopez.johan.poketinder.ui.viewmodel.RegisterViewModel
 import com.lopez.johan.poketinder.databinding.ActivityRegisterBinding
 
 class RegisterActivity : AppCompatActivity() {

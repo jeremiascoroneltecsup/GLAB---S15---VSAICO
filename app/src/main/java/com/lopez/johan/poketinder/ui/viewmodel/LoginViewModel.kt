@@ -1,7 +1,9 @@
+package com.lopez.johan.poketinder.ui.viewmodel
+
 import android.content.Context
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.lopez.johan.poketinder.SharedPreferencesRepository
+import com.lopez.johan.poketinder.data.database.SharedPreferencesRepository
 
 class LoginViewModel(
     val context: Context
